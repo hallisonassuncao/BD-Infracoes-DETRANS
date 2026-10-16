@@ -1,4 +1,4 @@
-# Faça as seguintes consultas ao banco de dados (prints que mostram a consulta SQL e o resultado):
+=> Faça as seguintes consultas ao banco de dados (prints que mostram a consulta SQL e o resultado):
 - Mostre o nome do proprietário e a quantidade de veículos que ele possui, exibindo apenas os proprietários que têm mais de um veículo registrado;
 - Liste todos os proprietários cujo nome começa com a letra "M" e que possuem pelo menos um veículo cadastrado no sistema. A consulta deve exibir o nome do proprietário, o CPF e o número da placa de cada veículo;
 - Mostre o nome do tipo de infração e o valor total cobrado pelas ocorrências desse tipo, agrupando os resultados por tipo de infração;
