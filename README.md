@@ -4,3 +4,5 @@
 - Mostre o nome do tipo de infração e o valor total cobrado pelas ocorrências desse tipo, agrupando os resultados por tipo de infração;
 - Exiba a placa do veículo, a velocidade aferida, a velocidade permitida e o local da infração, somente para os casos em que a velocidade aferida for maior que a permitida;
 - Liste a placa do veículo, o nome do proprietário, o tipo de infração, a data e hora da ocorrência e a UF onde ela ocorreu, somente para o "DF".
+
+                                                   Instituto Federal de Brasília (IFB)
